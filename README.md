@@ -7,4 +7,4 @@ a terceira com o Flexbox e por último usando o Bootstrap.
 
 Projeto prático Brafé 1 flexbox feito com css flexbox pelo site [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
 
-## Link do Projeto: [Brafé 1 flexbox](https://marcelo-rafael.github.io/brafe-1-grid/)
+## Link do Projeto: [Brafé 1 flexbox](https://marcelo-rafael.github.io/brafe-1-flexbox/)
