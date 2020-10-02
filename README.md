@@ -54,7 +54,7 @@ $ cd css_avancado_posicionamento
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[css](https://www.w3schools.com/css/)**
+-   **[css-flxbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/v)**
 
 ---
 
